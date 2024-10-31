@@ -76,13 +76,21 @@ o	Tính năng tương tác AI: Người dùng có thể đặt câu hỏi và nh
 
 
 # Giả Định Trong Quá Trình Thiết Kế
-1.Người dùng có kiến thức cơ bản về công nghệ: Giả định rằng người dùng có khả năng sử dụng máy tính và thiết bị di động. Điều này sẽ giúp giảm thiểu nhu cầu đào tạo và tạo điều kiện thuận lợi cho việc sử dụng hệ thống.
-2. Sự chấp nhận của người dùng đối với tính năng AI: Người dùng được kỳ vọng sẽ chấp nhận việc sử dụng AI để hỗ trợ trong việc sắp xếp cuộc họp. Sự chấp nhận này sẽ ảnh hưởng đến khả năng áp dụng các thuật toán và tính năng tự động trong hệ thống.
-3. Dữ liệu đầu vào đầy đủ và chính xác: Người dùng sẽ nhập thông tin một cách đầy đủ và chính xác. Việc thiếu thông tin hoặc sai sót trong dữ liệu có thể ảnh hưởng đến kết quả của hệ thống.
-4.  Khả năng tích hợp với các lịch trình hiện tại: Hệ thống sẽ có khả năng tích hợp và đồng bộ hóa với các ứng dụng lịch mà người dùng đang sử dụng như Google Calendar hay Outlook. Điều này sẽ giúp người dùng dễ dàng quản lý cuộc họp hơn.
-5. Mọi người dùng có thời gian rảnh tương đương: Giả định rằng trong một số tình huống, thời gian rảnh của các thành viên trong nhóm sẽ được phân phối đều. Tuy nhiên, điều này cần được kiểm tra lại trong thực tế.
-6. Tính năng thông báo được đáp ứng kịp thời: Hệ thống sẽ gửi thông báo về thời gian họp một cách kịp thời. Điều này giúp người dùng không bỏ lỡ cuộc họp và cải thiện hiệu quả tổ chức.
-7. Khả năng phân tích thời gian thực: Hệ thống có khả năng phân tích thông tin theo thời gian thực để đưa ra gợi ý chính xác, yêu cầu hệ thống phải có khả năng truy cập và xử lý dữ liệu liên tục.
-8.  Sự đa dạng trong địa điểm và múi giờ: Người dùng có thể ở nhiều địa điểm khác nhau và sử dụng các múi giờ khác nhau, do đó hệ thống cần có khả năng tự động chuyển đổi múi giờ.
-9. Tính linh hoạt trong lịch trình cuộc họp: Người dùng có thể thay đổi lịch trình hoặc yêu cầu họp vào những thời điểm khác nhau. Hệ thống cần phải thích ứng nhanh với những thay đổi này.
+- Người dùng có kiến thức cơ bản về công nghệ: Giả định rằng người dùng có khả năng sử dụng máy tính và thiết bị di động. Điều này sẽ giúp giảm thiểu nhu cầu đào tạo và tạo điều kiện thuận lợi cho việc sử dụng hệ thống.
+  
+- Sự chấp nhận của người dùng đối với tính năng AI: Người dùng được kỳ vọng sẽ chấp nhận việc sử dụng AI để hỗ trợ trong việc sắp xếp cuộc họp. Sự chấp nhận này sẽ ảnh hưởng đến khả năng áp dụng các thuật toán và tính năng tự động trong hệ thống.
+  
+- Dữ liệu đầu vào đầy đủ và chính xác: Người dùng sẽ nhập thông tin một cách đầy đủ và chính xác. Việc thiếu thông tin hoặc sai sót trong dữ liệu có thể ảnh hưởng đến kết quả của hệ thống.
+  
+- Khả năng tích hợp với các lịch trình hiện tại: Hệ thống sẽ có khả năng tích hợp và đồng bộ hóa với các ứng dụng lịch mà người dùng đang sử dụng như Google Calendar hay Outlook. Điều này sẽ giúp người dùng dễ dàng quản lý cuộc họp hơn.
+  
+- Mọi người dùng có thời gian rảnh tương đương: Giả định rằng trong một số tình huống, thời gian rảnh của các thành viên trong nhóm sẽ được phân phối đều. Tuy nhiên, điều này cần được kiểm tra lại trong thực tế.
+  
+- Tính năng thông báo được đáp ứng kịp thời: Hệ thống sẽ gửi thông báo về thời gian họp một cách kịp thời. Điều này giúp người dùng không bỏ lỡ cuộc họp và cải thiện hiệu quả tổ chức.
+  
+- Khảhả năng phân tích thời gian thực: Hệ thống có khả năng phân tích thông tin theo thời gian thực để đưa ra gợi ý chính xác, yêu cầu hệ thống phải có khả năng truy cập và xử lý dữ liệu liên tục
+  
+- Sự đa dạng trong địa điểm và múi giờ: Người dùng có thể ở nhiều địa điểm khác nhau và sử dụng các múi giờ khác nhau, do đó hệ thống cần có khả năng tự động chuyển đổi múi giờ.
+  
+-  Tính linh hoạt trong lịch trình cuộc họp: Người dùng có thể thay đổi lịch trình hoặc yêu cầu họp vào những thời điểm khác nhau. Hệ thống cần phải thích ứng nhanh với những thay đổi này.
 
